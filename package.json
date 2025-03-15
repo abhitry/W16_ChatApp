@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/ws": "^8.5.13",
+    "typescript": "^5.7.3",
+    "ws": "^8.18.0"
+  },
+  "name": "w16_chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
